@@ -1725,7 +1725,7 @@ div {
     font-family: DM Sans;
     font-weight: 500;
     font-size: 18px;
-    margin-bottom: ;
+    
     padding-bottom: 30px;
     position: relative;
     right: 140px;
@@ -1762,15 +1762,7 @@ div {
 }
 input {
     writing-mode: horizontal-tb !important;
-    font-style: ;
-    font-variant-ligatures: ;
-    font-variant-caps: ;
-    font-variant-numeric: ;
-    font-variant-east-asian: ;
-    font-weight: ;
-    font-stretch: ;
-    font-size: ;
-    font-family: ;
+    
     text-rendering: auto;
     color: fieldtext;
     letter-spacing: normal;
