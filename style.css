@@ -1963,10 +1963,6 @@ input {
 
 
 
-
-
-
-
 /* 11 */
 .p-Home.Flex110 {
     display: flex;
@@ -2157,16 +2153,5 @@ input {
     width: 145px;
     height: 145px;
     border-radius: 25px;
-}
-
-
-
-
-
-
-
-
-head{
-    display: none;
 }
 
